@@ -1,0 +1,11 @@
+file_name   ねじれ　　　　積層配置　　　角度
+demo i0    hexacene      hexacene     -0.3 -0.5 -0.7 -1 
+demo i1    hexacene      tetracene     -0.3 -0.5 -0.7 -1 
+demo i2    hexacene      hexacene     -0.25 -0.75 
+demo i3    hexacene      tetracene     -0.25 -0.75 
+demo t7    tetracene      tetracene     -1.25 -0.75 
+demo t6    tetracene      両方     　　　　-2
+demo t5    tetracene      hexacene     -0.5  -1 -1.5  (-2は層内構造ミス)
+demo t4    tetracene      tetacene     -0.5  -1 -1.5  (-2は層内構造ミス)
+			  hexacene        0             
+demo t3    tetracene      tetracene         0
